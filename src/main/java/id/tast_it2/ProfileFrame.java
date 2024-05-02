@@ -15,6 +15,7 @@ import javax.swing.table.DefaultTableModel;
  *
  * @author Mohammad
  */
+
 public class ProfileFrame extends javax.swing.JFrame {
 
     /**

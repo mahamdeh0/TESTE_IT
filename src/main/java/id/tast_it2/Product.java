@@ -15,6 +15,7 @@ public class Product {
     private int Ammount=1;
     private String PID;
   
+    
     public void setAmmount(int Ammount)
        {
            this.Ammount = Ammount;

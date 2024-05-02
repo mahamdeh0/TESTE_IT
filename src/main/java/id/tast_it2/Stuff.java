@@ -11,6 +11,7 @@ import java.util.ArrayList;
  * @author Mohammad
  */
 
+ 
 public class Stuff {
     public static  String CurrentUser;
   public static   String CurrentUserPassword;
